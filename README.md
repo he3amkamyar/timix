@@ -1,5 +1,5 @@
 # timix
-<h2>timix online store</h2>
+<p>timix online store</p>
 
 <h2>Installation</h2>
 <i>git clone https://github.com/he3amkamyar/timix.git</i>
