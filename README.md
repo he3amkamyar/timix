@@ -3,8 +3,11 @@
 
 <h2>Installation</h2>
 <i>1 : git clone https://github.com/he3amkamyar/timix.git</i>
+<br />
 <i>2 : import File sql.sql to phpmyadmin</i>
+<br />
 <i>3 : Start Wamp Server or Xampp Server</i>
+<br />
 <i>4 : Search localhost/timix-main</i>
 <hr />
 "<b>User & pass admin panel</b>"
