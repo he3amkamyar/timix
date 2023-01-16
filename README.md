@@ -6,3 +6,8 @@ timix online store
 email : "admin@gmail.com"
 <br/>
 password : "admin"
+<br/>
+<br/>
+#Installation
+
+<i>git clone https://github.com/he3amkamyar/timix.git</i>
