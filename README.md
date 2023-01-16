@@ -8,7 +8,7 @@
 <br />
 <i>3 : Start Wamp Server or Xampp Server</i>
 <br />
-<i>4 : Search localhost/timix-main</i>
+<i>4 : Search url "localhost/timix-main"</i>
 <hr />
 "<b>User & pass admin panel</b>"
 <br />
