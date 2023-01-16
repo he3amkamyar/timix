@@ -10,7 +10,7 @@
 <br />
 <i>4 : Search url "localhost/timix-main"</i>
 <br />
-"<h2>admin panel</h2>"
+<h2>admin panel</h2>
 <hr />
 email : "admin@gmail.com"
 <br />
