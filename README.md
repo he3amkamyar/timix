@@ -8,7 +8,7 @@
 <br />
 <i>3 : Start Wamp Server or Xampp Server</i>
 <br />
-<i>4 : Search url "localhost/timix-main"</i>
+<i>4 : type url "localhost/timix-main"</i>
 <br />
 <h2>admin panel</h2>
 email : "admin@gmail.com"
